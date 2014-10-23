@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=nums\ num
+comment0.target=boolean\ isThere(int[],\ int)
+comment0.text=\r\n\ \ \ \ public\ boolean\ allFactorsOfSum(int[]\ nums)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n
+comment1.params=strs
+comment1.target=java.lang.String[]\ doubleArr(java.lang.String[])
+comment2.params=nums\ num
+comment2.target=int\ indexOf(int[],\ int)
+comment3.params=nums\ num
+comment3.target=int\ lastIndexOf(int[],\ int)
+comment4.params=nums
+comment4.target=boolean\ isIncreasing(double[])
+comment5.params=nums
+comment5.target=int\ largestSpan(int[])
+comment6.params=
+comment6.target=ArrayFun2()
+numComments=7

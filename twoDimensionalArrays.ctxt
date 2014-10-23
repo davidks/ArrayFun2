@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=someTable
+comment0.target=void\ print(java.lang.String[][])
+comment1.params=arr
+comment1.target=int\ sum(int[][])
+comment2.params=arr
+comment2.target=double\ mean(int[][])
+comment3.params=arr\ row
+comment3.target=void\ printRow(int[][],\ int)
+comment4.params=
+comment4.target=twoDimensionalArrays()
+numComments=5
